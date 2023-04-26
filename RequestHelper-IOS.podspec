@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
 
   spec.author       = { "Artem Drebednev" => "drebednev@mail.ru" }
   spec.platform     = :ios
-  spec.source       = { :git => "https://github.com/xorowo/requestHelper", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/xorowo/requestHelper", :branch => spec.version }
 
   pec.ios.deployment_target 	= '13.0'
   spec.source_files 		= 'RequestHelper/**/*.{h,m,swift}'

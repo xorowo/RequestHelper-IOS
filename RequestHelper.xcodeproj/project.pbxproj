@@ -54,7 +54,6 @@
 		96C934C329F910BC0045E127 = {
 			isa = PBXGroup;
 			children = (
-				96C934E329F911500045E127 /* realization */,
 				96C934CE29F910BC0045E127 /* RequestHelper */,
 				96C934CD29F910BC0045E127 /* Products */,
 			);
@@ -71,6 +70,7 @@
 		96C934CE29F910BC0045E127 /* RequestHelper */ = {
 			isa = PBXGroup;
 			children = (
+				96C934E329F911500045E127 /* realization */,
 				96C934CF29F910BC0045E127 /* AppDelegate.swift */,
 				96C934D129F910BC0045E127 /* SceneDelegate.swift */,
 				96C934D329F910BC0045E127 /* ViewController.swift */,
